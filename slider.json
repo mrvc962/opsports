@@ -22,9 +22,9 @@
          "image":"https://rvcyberworldhome.files.wordpress.com/2018/07/star-sports-hd-1-large.jpg",
          "type":"hls",
          "liveUrl":"https://s3.123zcast.com:8070/hls/star1in.m3u8",
-         "referer":"",
+         "referer":"https://123zcast.com/",
          "origin":"",
-         "cookie":"https://123zcast.com/",
+         "cookie":"",
          "useragent":"",
          "license":""
       },
