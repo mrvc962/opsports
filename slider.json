@@ -1,0 +1,32 @@
+{
+   "slider":[
+      {
+         "id":"0",
+         "category":"live",
+         "title":"JOIN OUR TELEGRAM",
+         "description":"JOIN OUR TELEGRAM",
+         "image":"https://voonze.com/wp-content/uploads/2021/01/1608803047_409_Telegram-logo.jpg",
+         "type":"hls",
+         "liveUrl":"https://t.me./expsports",
+         "referer":"",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"Star Sports",
+         "description":"Star Sports",
+         "image":"https://origin-staticv2.sonyliv.com/landscape_thumb/SABTVHD1_Landscape_Thumb1.jpg",
+         "type":"hls",
+         "liveUrl":"https://s3.123zcast.com:8070/hls/star1in.m3u8",
+         "referer":"",
+         "origin":"",
+         "cookie":"https://123zcast.com/",
+         "useragent":"",
+         "license":""
+      }
+     ]
+}
