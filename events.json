@@ -7,10 +7,10 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1867/1161867-h-dd917e75c63b",
          "type":"hls",
-         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024725/ipl2022/hin/1540014119/15mindvrm012207936057ce4492be54ecba08a0a04226march2022/master.m3u8",
-         "referer": "",
+         "liveUrl":"https://g6.fctelerium.com:999/hls/starhindi.m3u8?md5=vJr_kBjR844lcYd6g7IReA&expires=1648310309",
+         "referer": "https://noob4cast.com/",
          "origin":"",
-         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxMTkvMTVtaW5kdnJtMDEyMjA3OTM2MDU3Y2U0NDkyYmU1NGVjYmEwOGEwYTA0MjI2bWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDgzODUzMTl9fX1dfQ; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=Zgnw8pZ2jrNhdQG4YG0a51b21F6z12~MSKw4n-YTDHKB4jEu2ha1UqU8NaypzyIUxx0YHw7uoxBfehnY2MunOxpYtmwE3a2R2Sr5SahriEw8kt1C9y7HyYv4NmkVgVBmu0Oscuy4pJBYbbozK8oVXUNt8u2gxT-YwvE7y4NgWdm1mB8J52l0XBY5x-R08No95ofk2xUz2wIvcjpWqEsewaNYorMtWJ9jn8pBjBz6~PcwjpbKg7ltAH6WF9FqEnorEonzk2baBD0-AzKGq4ICrw-VQL891VQDqBWuK6Xi-ZhgfrnenDTPGoQByg88FErfKCjbfOHXTiqMeqKzjtKO9g",
+         "cookie":"",
          "useragent":"",
          "license":""
       },
