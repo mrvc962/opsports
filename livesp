@@ -1,0 +1,88 @@
+{
+   "live":[
+      {
+         "id":"0",
+         "category":"live",
+         "title":"Sky Sports",
+         "description":"Sky Sports",
+         "image":"https://cdn.freebiesupply.com/logos/thumbs/2x/sky-sports-1-logo.png",
+         "type":"hls",
+         "liveUrl":"https://s1.123zcast.com:8070/hls/skyscric.m3u8",
+         "referer":"https://123zcast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"Fox Sports",
+         "description":"Fox Sports",
+         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png",
+         "type":"hls",
+         "liveUrl":"https://s4.123zcast.com:8070/hls/yt43.m3u8",
+         "referer": "https://123zcast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"2",
+         "category":"live",
+         "title":"Super Sports",
+         "description":"Super Sports",
+         "image":"http://cms.my.na/assets/images/e24443edc8d90bca845040b9cf66bbfc.jpg",
+         "type":"hls",
+         "liveUrl":"https://s2.123zcast.com:8070/hls/superspcric.m3u8",
+         "referer": "https://123zcast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"3",
+         "category":"live",
+         "title":"Willow Cricket",
+         "description":"Willow Cricket",
+         "image":"https://cdn.technadu.com/wp-content/uploads/2019/06/Willow-696x392.png",
+         "type":"hls",
+         "liveUrl":"https://s1.123zcast.com:8090/hls/willowusa.m3u8",
+         "referer": "https://123zcast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"3",
+         "category":"live",
+         "title":"Star Sports 1",
+         "description":"Star Sports 1",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxS2rYIVBbyXWunYf4bz2RQwN2nbNyoqaPEA&usqp=CAU",
+         "type":"hls",
+         "liveUrl":"https://s4.123zcast.com:8070/hls/star1in.m3u8",
+         "referer": "https://123zcast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"3",
+         "category":"live",
+         "title":"Star Sports Hindi",
+         "description":"Star Sports Hindi",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-VwWgAPYQ70k1R60meu_P-lN85uhvxb1Hg&usqp=CAU",
+         "type":"hls",
+         "liveUrl":"https://s2.123zcast.com:8070/hls/starhindi.m3u8",
+         "referer": "https://123zcast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      }
+    ]
+}
