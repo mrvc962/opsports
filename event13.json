@@ -40,19 +40,6 @@
          "useragent":"",
          "license":""
       },{
-         "id":"3",
-         "category":"live",
-         "title":"MI vs DC (Telgu S1)",
-         "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/2080/1162080-h-7b35f31019d0",
-         "type":"hls",
-         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003877/ipl2022/tel/1540014122/15mindvrm0139d93be856e84d76bdb9c6e3ce6c983f27march2022/master.m3u8",
-         "referer": "",
-         "origin":"",
-         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODc3L2lwbDIwMjIvdGVsLzE1NDAwMTQxMjIvMTVtaW5kdnJtMDEzOWQ5M2JlODU2ZTg0ZDc2YmRiOWM2ZTNjZTZjOTgzZjI3bWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg0NTk0MTh9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=fyjHqYWU1M4s~HIbAOAWbZgzwUU6eenLWh10pmj6y9m4UAEoSrPL44MHUJ2aS31mlSPopAt5OrK3jRu4lPg0viXzN-23nRFRTZPF1PdeRSY8hV5gtwCmQ0VTs4KBLhOW0F~x326AkEPEj5dUWkn~zXB5Fnhanf-Fr9JCnFuApAQzX2lkXhkQ6cV-kE32mVwdhHcchxu4EK6XT0s9q1zfnbPFRejwMcfQqyvpsf5W5IfmO9uVxZrOZ-tVEU3ecBIaI8vXjnfNDXpHmi8WQsESYlvOaN8VT499tr876fTUhjSj8NHSMwJULQpws6oNln5NmD-9nBOXVo8z6c5KIsg-dg__; hs_uid=b1b151ac-991b-447d-9ad7-1b7d5317b607; ajs_group_id=null; _gcl_au=1.1.144762959.1648372917; _ga_QV5FD29XJC=GS1.1.1648372917.1.0.1648372917.60; _fbp=fb.1.1648372918429.1373261579; _uetsid=5a69e6c0adaf11ec98401babec081475; _uetvid=5a6b5620adaf11ec9725614db34ae426; _ga=GA1.2.777505252.1648372918; _gid=GA1.2.1621568303.1648372919; _clck=8983ai|1|f04|0; _clsk=1n9iyv2|1648372922405|1|0|i.clarity.ms/collect; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%2279fe33be-46f6-4020-860b-e4e36bf7c62b%22",
-         "useragent":"",
-         "license":""
-      },{
          "id":"4",
          "category":"live",
          "title":"MI vs DC (Tamil S1)",
