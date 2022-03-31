@@ -1,0 +1,98 @@
+{
+   "live":[
+{
+         "id":"0",
+         "category":"live",
+         "title":"CSK vs LSG (Hindi S1 MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4532/1164532-h-31f9a1683565",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024725/ipl2022/hin/1540014137/15mindvrm015c9dd50042544d47a4ae3585d640b9c531march2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxMzcvMTVtaW5kdnJtMDE1YzlkZDUwMDQyNTQ0ZDQ3YTRhZTM1ODVkNjQwYjljNTMxbWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg4MjExOTJ9fX1dfQ; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=YIcQqj~eS6iLCweZLILFLUZMwA7XZKHiASEgwB1Cag2PYCw9YUcQlHfxg95nG3g1hw-ogMPsz6a7dbGpnLh6OowdfdQc9FUY02oNelZxZImzAyfcO6~bPFwTtIhzuTPVnpWfZcNZwb3YSKjczVmPAzt4-3Umns6ytL-6X4kQPUxnxHseI8pq34o30vCusH-mTF7CtBOCa9NWt-wdQ4KqtYWZ78497NhDgGSyERytALcsly-TwORk1XaRYysteNP~i0SOFFHqzNHbyQsqqTBG0iab3Y0GEbdAJ21UH4COmIUQSMk1mFjpGmHI4VVioNh46tH9HzkgBeBXEaaMYNokOQ; hs_uid=365c453a-37d9-4983-b2d5-93c8930c9eab; ajs_group_id=null; ajs_user_id=%223e6e161a46074335a4bb6d12b05081ce%22; ajs_anonymous_id=%221f1c4502-73df-49d8-ba53-ca21d43039b8%22",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"CSK vs LSG (Hindi S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4532/1164532-h-31f9a1683565",
+         "type":"hls",
+         "liveUrl":"https://g1.fctelerium.com:999/hls/starhindi.m3u8?md5=X0mlGEVutL6pQdaj5-CVzQ&expires=1648741288",
+         "referer": "https://noob4cast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"CSK vs LSG (English S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4532/1164532-h-31f9a1683565",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024720/ipl2022/eng/1540014137/15mindvrm015c9dd50042544d47a4ae3585d640b9c531march2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzIwL2lwbDIwMjIvZW5nLzE1NDAwMTQxMzcvMTVtaW5kdnJtMDE1YzlkZDUwMDQyNTQ0ZDQ3YTRhZTM1ODVkNjQwYjljNTMxbWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg4MjA3NjZ9fX1dfQ; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=UX-jG7DtuB~6VrfPs~IHII6D1VNdIuCsYb16JVts0Rvgqa8oWtviO-HZbAoX9sjmqB4RuNwsgOovy2QCBs13MyqIf~Ao7bgEHn13IU2jqfawadK3CMFPsXnhr3K~tcOg4THAvR4KiTVbNiMqA56aujL0DOaJbAGzvSYb~vn7HhAA-ngfih5Thy44O9O4~67CtyOQ4fO-ySC~L2wAE612376b6U20Mvh~Afe4FRM0jYEx6~5~~EupC37yyxyJnjIGXRYpRdjeH3RKjQnag0XXsGDPSBsP7q~tNRs43k9wsm97rf3~7g0xDX7fw3ua6TVAl0Ea6mwiCuQg7SEmX9wufQ; hs_uid=365c453a-37d9-4983-b2d5-93c8930c9eab; ajs_group_id=null; ajs_user_id=%223e6e161a46074335a4bb6d12b05081ce%22; ajs_anonymous_id=%221f1c4502-73df-49d8-ba53-ca21d43039b8%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"3",
+         "category":"live",
+         "title":"CSK vs LSG (Tamil s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4532/1164532-h-31f9a1683565",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003715/ipl2022/tam/1540014137/15mindvrm015c9dd50042544d47a4ae3585d640b9c531march2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzNzE1L2lwbDIwMjIvdGFtLzE1NDAwMTQxMzcvMTVtaW5kdnJtMDE1YzlkZDUwMDQyNTQ0ZDQ3YTRhZTM1ODVkNjQwYjljNTMxbWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg4MjEwOTR9fX1dfQ__; CloudFront-Signature=LtfworAi0eCL1GDO5DK-BuFfT9DZFg5yuR4dLatZCllHff467kJZ3AT21e27gsP7gJcBoHcZNKDvuD8X1rldbNenE~Dx6ibUXZaLzv4W-7m0n2KEEB-zAI3aXsks9QXSM~Xfl1h29FtvKMfsAvoKwrTK5HdQBisykgXz1wTLheKLHLQ46WhfhNZHbtl5ujF5~2pOksT0a~2uYRoNHbslSCXWInzSWazytCIGj820PijYj5fXCFLaBdOJ9X3aaHw1m39Zc4Yz1qFyfXkvxB8XLafNEjdX1MlEHrd5h8cVCpaPy4DjJFR4rF7U~ttZceLtdrFlFh~ndt5fLOb56PyByA__; hs_uid=998c99a0-3431-4ab6-87dd-87ec9d7b9680; ajs_group_id=null; _gcl_au=1.1.1777191575.1641028311; ajs_user_id=%22071bddcfa137441b86727e7a33298bdc%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"4",
+         "category":"live",
+         "title":"CSK vs LSG (Telgu s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4532/1164532-h-31f9a1683565",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003881/ipl2022/kan/1540014137/15mindvrm015c9dd50042544d47a4ae3585d640b9c531march2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODgxL2lwbDIwMjIva2FuLzE1NDAwMTQxMzcvMTVtaW5kdnJtMDE1YzlkZDUwMDQyNTQ0ZDQ3YTRhZTM1ODVkNjQwYjljNTMxbWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg4MjExNzF9fX1dfQ__; CloudFront-Signature=hIX8o6Nt-ouJ4Pwok~AkHsNjyMFHgYR13lHCJNDlTU3rhUs~bTigncLcejAcaV9qchPQcs4scnVp2yMaPNqUQFdDEaC~9qd0Ne5ozDcIFex3xQzh6pYfLD3c6Ct6TN1qquH8TDv5NAKkhj-YJkHHU0A2w5r4zu99x-7CQuV8z2G4LnwR5NTuB06fiR6hpNM3~0DO4tyPY2wXUbIka9-sHbHtylSJC0NGrvZV5G2ik1kPDE-zIZ~kNMBLPTYYyRs-PX-9naAovyUs25KY4FWrxLOabhQqvYsFHgKJYvq2Z3AltOQvrMFSmNc-jdoOQQ~0k6yPZU1ZAGsJF9dngp8epQ__; hs_uid=998c99a0-3431-4ab6-87dd-87ec9d7b9680; ajs_group_id=null; _gcl_au=1.1.1777191575.1641028311; ajs_user_id=%22071bddcfa137441b86727e7a33298bdc%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"CSK vs LSG (Kannada s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4532/1164532-h-31f9a1683565",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003881/ipl2022/kan/1540014137/15mindvrm015c9dd50042544d47a4ae3585d640b9c531march2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODgxL2lwbDIwMjIva2FuLzE1NDAwMTQxMzcvMTVtaW5kdnJtMDE1YzlkZDUwMDQyNTQ0ZDQ3YTRhZTM1ODVkNjQwYjljNTMxbWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg4MjExNzF9fX1dfQ__; CloudFront-Signature=hIX8o6Nt-ouJ4Pwok~AkHsNjyMFHgYR13lHCJNDlTU3rhUs~bTigncLcejAcaV9qchPQcs4scnVp2yMaPNqUQFdDEaC~9qd0Ne5ozDcIFex3xQzh6pYfLD3c6Ct6TN1qquH8TDv5NAKkhj-YJkHHU0A2w5r4zu99x-7CQuV8z2G4LnwR5NTuB06fiR6hpNM3~0DO4tyPY2wXUbIka9-sHbHtylSJC0NGrvZV5G2ik1kPDE-zIZ~kNMBLPTYYyRs-PX-9naAovyUs25KY4FWrxLOabhQqvYsFHgKJYvq2Z3AltOQvrMFSmNc-jdoOQQ~0k6yPZU1ZAGsJF9dngp8epQ__; hs_uid=998c99a0-3431-4ab6-87dd-87ec9d7b9680; ajs_group_id=null; _gcl_au=1.1.1777191575.1641028311; ajs_user_id=%22071bddcfa137441b86727e7a33298bdc%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"CSK vs LSG (Marathi s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4532/1164532-h-31f9a1683565",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003893/ipl2022/mar/1540014137/15mindvrm015c9dd50042544d47a4ae3585d640b9c531march2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODkzL2lwbDIwMjIvbWFyLzE1NDAwMTQxMzcvMTVtaW5kdnJtMDE1YzlkZDUwMDQyNTQ0ZDQ3YTRhZTM1ODVkNjQwYjljNTMxbWFyY2gyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg4MjA3NTl9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=otYOia9fRRUPIFdfKIe8ziLzvQNPJN-qM~IWwrFBx9xIms7QDVXpb9-yksJrJY-B3WIlluugSKIp0IS9ifjgECa1O2fjh9fIycqFGc52HzNM5AmBMuXunCcVVbyXFJG61sZwDi7N2-Fz1BQQtMFMy-1GRWM25BhNDtdh1Y9D7LNzGrvt7r0fy1k3kvhYpA2I7z8SxF9h1-M-osCIuoo3xlHh6QuW44TFwu58PGTTSjykuXtvY1xKq~sCHEcF5~wo~-nBJgi5urgTlhWyrzdVhMnDjbRiyOrHHKMCfS0jyO2j8bE1yqyeLgRpf1l2ag7Ohgkd1qFn-mLNfMlZm5acNw__; hs_uid=998c99a0-3431-4ab6-87dd-87ec9d7b9680; ajs_group_id=null; _gcl_au=1.1.1777191575.1641028311; ajs_user_id=%22071bddcfa137441b86727e7a33298bdc%22; ajs_anonymous_id=%22cac586bd-bd82-49ef-9614-a8f907f5b4e5%22",
+         "useragent":"",
+         "license":""
+      }
+   ]
+  }
