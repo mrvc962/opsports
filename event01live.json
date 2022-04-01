@@ -3,7 +3,7 @@
 {
          "id":"0",
          "category":"live",
-         "title":"KKR vs PKBS (Hindi S1 MQ)",
+         "title":"KKR vs PBKS (Hindi S1 MQ)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
          "type":"hls",
@@ -17,7 +17,7 @@
       {
          "id":"1",
          "category":"live",
-         "title":"KKR vs PKBS (Hindi S2)",
+         "title":"KKR vs PBKS (Hindi S2)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
          "type":"hls",
@@ -31,7 +31,7 @@
 {
          "id":"2",
          "category":"live",
-         "title":"KKR vs PKBS (English S2)",
+         "title":"KKR vs PBKS (English S2)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
          "type":"hls",
@@ -44,7 +44,7 @@
       },{
          "id":"3",
          "category":"live",
-         "title":"KKR vs PKBS (Tamil s1)",
+         "title":"KKR vs PBKS (Tamil S1)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
          "type":"hls",
@@ -57,7 +57,7 @@
       },{
          "id":"4",
          "category":"live",
-         "title":"KKR vs PKBS (Telgu s1)",
+         "title":"KKR vs PBKS (Telgu S1)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
          "type":"hls",
@@ -70,7 +70,7 @@
       },{
          "id":"5",
          "category":"live",
-         "title":"KKR vs PKBS (Kannada s1)",
+         "title":"KKR vs PBKS (Kannada S1)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
          "type":"hls",
@@ -83,7 +83,7 @@
       },{
          "id":"5",
          "category":"live",
-         "title":"KKR vs PKBS (Marathi s1)",
+         "title":"KKR vs PBKS (Marathi S1)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
          "type":"hls",
