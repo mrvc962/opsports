@@ -1,0 +1,98 @@
+{
+   "live":[
+{
+         "id":"0",
+         "category":"live",
+         "title":"KKR vs PKBS (Hindi S1 MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024725/ipl2022/hin/1540014140/15mindvrm019950dc814982460db8f23661d9af43f601april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxNDAvMTVtaW5kdnJtMDE5OTUwZGM4MTQ5ODI0NjBkYjhmMjM2NjFkOWFmNDNmNjAxYXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg5MDY0MzV9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=ScwLoMFRxUWShkS2tyCR8tI6vUUmpj0CwQ5CptdieHMQclVdt40DPCVDqjarKOG9-XkgwkNCxn8QkHCzykzMS-lq8nNLA-8wUNq~5HivSio4fFtPI71tKSnTDmeci2VjdsABP2Nb3HvrooTTPFDg2UNE136wVrkzeUdAuzZ5oeI5Ek3xkRef~dBasPzpztiEVZUSW3JADUgztOZpKyzGo89OaP1a43KmtrTDzKxjvWbjyBVfUYR9COufZaZt~HqzMQLWQXq90JSbn3ggU71wNbVAz0liZK6-yOG-LcvVkxb7Ffnfb7JWuUO6Z2QF9OatBPwPwb0rmZwGHuo~KS1X7Q__; ajs_anonymous_id=%22d5c58742-1075-4bba-beb0-3a8d0a25be70%22; _fbp=fb.1.1648819987982.1229518151; hs_uid=cd5fc35c-e302-4910-b307-a334fc29584c; _ga_QV5FD29XJC=GS1.1.1648819536.1.1.1648819993.55; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"KKR vs PKBS (Hindi S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
+         "type":"hls",
+         "liveUrl":"https://g1.fctelerium.com:999/hls/starhindi.m3u8?md5=Shk3UKfsWn0Mmp8MR-hZ4A&expires=1648826963",
+         "referer": "https://noob4cast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"KKR vs PKBS (English S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024720/ipl2022/eng/1540014140/15mindvrm019950dc814982460db8f23661d9af43f601april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzIwL2lwbDIwMjIvZW5nLzE1NDAwMTQxNDAvMTVtaW5kdnJtMDE5OTUwZGM4MTQ5ODI0NjBkYjhmMjM2NjFkOWFmNDNmNjAxYXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg5MDY0NDZ9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=hT~s706gLD2AimGRqqL2kzNoMQpU129Wj3KdPz4XlbLorS0LzSPbNu8Zj5k9e9KtUlZ-MEYlb0yWeb0TmeYGOi~gK6aF~nXC9d~Zmry7I5nIOMyhtEb2qFEJjylO9P~cA20qAvQhRuCO6Pe2aSzTLQ7u-wIvLC5mwQRzcu60B7pG-Um5hICcrKyUDABlm4oY262q9TGRfc6U-zRdaUvp0CO86I6LQOB2dPXecdvrr4qE5iqaIfAW6xjj1UWKQ11y3rQzx3ajvMjKL7xN2bqMMzBXYnGT6utYLdbuTzxF~UUBENo~lx3QqBmPvBebdNoqIbLF24iEl2TNEc1ckSKwow__; ajs_anonymous_id=%22d5c58742-1075-4bba-beb0-3a8d0a25be70%22; _fbp=fb.1.1648819987982.1229518151; hs_uid=cd5fc35c-e302-4910-b307-a334fc29584c; _ga_QV5FD29XJC=GS1.1.1648819536.1.1.1648819993.55; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"3",
+         "category":"live",
+         "title":"KKR vs PKBS (Tamil s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003715/ipl2022/tam/1540014140/15mindvrm019950dc814982460db8f23661d9af43f601april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzNzE1L2lwbDIwMjIvdGFtLzE1NDAwMTQxNDAvMTVtaW5kdnJtMDE5OTUwZGM4MTQ5ODI0NjBkYjhmMjM2NjFkOWFmNDNmNjAxYXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg5MDY0ODl9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=iovHAl9YA2UzDnSWmf0uPRcE32CkAydpn6xzYKV8VuGhvvhZTEo6SfOrGdHUctg9Hn5jbG3EV6oBKRvRZ-uhadt5l-x070OD1pmzby1dk485sJ2hvvnnQiJiZSEM-ZfDfIc9CmRzEZq4OZNJk5y~-Pkifz43OYMCV3OidjDI59rQSs4vFvgn5qwaXyDSMRqiOLDkC3ERF5MK4u~ySy2cVLD2JiUuR~iy74N7esCesXJaYhwmr8iJEDxrfBeNnJOnDV4UVta8NGpkdU91aqoBazMuLcnJ6stBiKFmVUTkTto0xu2T4K01pY6UB3uzJMQkdRDe7Vc~f2r42XXO3B1Krw__; ajs_anonymous_id=%22d5c58742-1075-4bba-beb0-3a8d0a25be70%22; _fbp=fb.1.1648819987982.1229518151; hs_uid=cd5fc35c-e302-4910-b307-a334fc29584c; _ga_QV5FD29XJC=GS1.1.1648819536.1.1.1648819993.55; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"4",
+         "category":"live",
+         "title":"KKR vs PKBS (Telgu s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003877/ipl2022/tel/1540014140/15mindvrm019950dc814982460db8f23661d9af43f601april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODc3L2lwbDIwMjIvdGVsLzE1NDAwMTQxNDAvMTVtaW5kdnJtMDE5OTUwZGM4MTQ5ODI0NjBkYjhmMjM2NjFkOWFmNDNmNjAxYXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg5MDY0NTZ9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=bnFJZ-tUgEqUpeVFDHkpf1U15TqvbA8Ft5TCJtxlZAtxZkdha73eUC21fM5zYJj-mHlTc2pHLK0N6JJg6rXRONG9hg~iT2M7QzEYW3VAfX7mxqSKmdqpZD430JarnR2V5rEhpK7incqbTwZ06g2rZzbKg4oiNRaeIdrpf004QnXA2lCP~NcqC91KtAyyzgmTjurw5zA8YYhq2Q8IBovyFhUFAtmmXq~9AHhgL4fu6N8ur9NzS--ZsULqy5Mo13E4JlfPkEZ4Skv0hMDu~ptZL3hPb22F135MNW3EJtIHbt-vDbfksNc4YfLBuKwDR1kMISIcgnmBGsr1~Ggzcv~O3g__; ajs_anonymous_id=%22d5c58742-1075-4bba-beb0-3a8d0a25be70%22; _fbp=fb.1.1648819987982.1229518151; hs_uid=cd5fc35c-e302-4910-b307-a334fc29584c; _ga_QV5FD29XJC=GS1.1.1648819536.1.1.1648819993.55; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"KKR vs PKBS (Kannada s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003881/ipl2022/kan/1540014140/15mindvrm019950dc814982460db8f23661d9af43f601april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODgxL2lwbDIwMjIva2FuLzE1NDAwMTQxNDAvMTVtaW5kdnJtMDE5OTUwZGM4MTQ5ODI0NjBkYjhmMjM2NjFkOWFmNDNmNjAxYXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg5MDY1MDh9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=PPpFi8smNdmLFNqAvELTTtDPA4Z1OxU0GVAjUq7fdIBxXtFQreQ08Li9uJJptbkunWhBxGTyKTuZB-1Tvib6Bmv-AtgdEnG-FwKSzhqJWkvanjnQdy5g4rTGwPSt3cipTjOND3eYKeVmZZhXhLEYpfKPfuOqUDoX5hHXcP0SpHCYmhVgm33cmlMXGqcIC4dCjrpW8mXLYij9pJJz~adnv4MhtBXNQ6HE~429qvEtiFYrgMr4N1XFRWHIjyRSlStr~-gydBY4F4XHUhtIwKvCxscOMVATS-J4j8NNyl7vN01fqzGRzJzoRmuWaOkOmiI93734J~0FBQWA2N629tzhTw__; ajs_anonymous_id=%22d5c58742-1075-4bba-beb0-3a8d0a25be70%22; _fbp=fb.1.1648819987982.1229518151; hs_uid=cd5fc35c-e302-4910-b307-a334fc29584c; _ga_QV5FD29XJC=GS1.1.1648819536.1.1.1648819993.55; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"KKR vs PKBS (Marathi s1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6277/1166277-h-4a88c0c4d2f9",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003893/ipl2022/mar/1540014140/15mindvrm019950dc814982460db8f23661d9af43f601april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODkzL2lwbDIwMjIvbWFyLzE1NDAwMTQxNDAvMTVtaW5kdnJtMDE5OTUwZGM4MTQ5ODI0NjBkYjhmMjM2NjFkOWFmNDNmNjAxYXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDg5MDY0OTh9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=Rgn3mCV2QJtGI3haT~c-NoBwTATzvBOEMJ~ZkpudM5aTFADoPOTJnxd9tJssPkvzuzMYPMfom6~XiAz8YXd~BEHt4-fZe2RAFNSJd7ONZ65J1~E22RtZxo56kWiH~CP74ohc~r91-f9f6Hl-ZfaPa059c8SRKBnkOiK5SEuOS-zuPPJ1-du6mMdNpgtB-73ljDC4HVOEBmbgOaWRFsHg0tOc9XCso4a~l7Gr7lnd8q5yGHRGU0bLHYQNvHw~IwPWLO7SQlu39YorL43BC~re1Kv~J3Z1RdR2d7XVoO73Xh1VYO7QmPAdXT-cy7FpmHHvxVyFbiba1eVcA-zTUX13dA__; ajs_anonymous_id=%22d5c58742-1075-4bba-beb0-3a8d0a25be70%22; _fbp=fb.1.1648819987982.1229518151; hs_uid=cd5fc35c-e302-4910-b307-a334fc29584c; _ga_QV5FD29XJC=GS1.1.1648819536.1.1.1648819993.55; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      }
+   ]
+  }
