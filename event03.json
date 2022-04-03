@@ -86,9 +86,9 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9725/1169725-h-89c35342e630",
          "type":"hls",
-         "liveUrl":"https://coolsale.in/wp-content/uploads/2021/07/Streaming-Start-Soon.mp4",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003893/ipl2022/mar/1540014149/15mindvrm01f2a41f6b8b104702838f7194e560566803april2022/master.m3u8",
          "referer": "",
-         "origin":"",
+         "origin":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODkzL2lwbDIwMjIvbWFyLzE1NDAwMTQxNDkvMTVtaW5kdnJtMDFmMmE0MWY2YjhiMTA0NzAyODM4ZjcxOTRlNTYwNTY2ODAzYXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkwNzU4MjJ9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=ES0MFpy~TF7OvltX~d~a4JuCIqeCNpiOGsW-mkHUk~of5j8bD45pWTaz-T3IIEWWz7AzmUF~lY15P1v8st~CUX0DYfT7Uq2hY3TyKlxDXZFlXqq5ae~aE-HObACeMNbBkc62lJbDuUOOkOQ-CKSpwZAtWs0oDSLfqc1l3QP5yNeSKKhvPuv77ChktxZK7~Rh7Mr-JPqAsmiW2vRcQTpxv~hEFvBsofRIbv2sMv3IQjhNtYOwnHqRBlEnbBapRzYTXDdvOhRc9qJCyzusCIKGBd77Janniaddqw9HHanvXyNs7pjJlEyazURuUos-Wk~MxHu9gStWHMR7N3Tc2HRfmQ__; hs_uid=998c99a0-3431-4ab6-87dd-87ec9d7b9680; ajs_group_id=null; ajs_user_id=%22071bddcfa137441b86727e7a33298bdc%22; ajs_anonymous_id=%22cac586bd-bd82-49ef-9614-a8f907f5b4e5%22",
          "cookie":"",
          "useragent":"",
          "license":""
