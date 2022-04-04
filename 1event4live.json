@@ -20,7 +20,7 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1473/1171473-h-8600fb368eea",
          "type":"hls",
-         "liveUrl":"https://g1.fctelerium.com:999/hls/starhindi.m3u8?md5=kmRmr93g5dNiZ2CSnrjhCA&expires=1649007362",
+         "liveUrl":"https://g1.fctelerium.com:999/hls/starhindi.m3u8?md5=jS6FZUQHgXja3Oj0ahx2bg&expires=1649087649",
          "referer": "https://noob4cast.com/",
          "origin":"",
          "cookie":"",
@@ -88,7 +88,7 @@
          "type":"hls",
          "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003893/ipl2022/mar/1540014152/15mindvrm019692964f4f48493280ac9da8f0ea305304april2022/master.m3u8",
          "referer": "",
-         "cookie":""CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODkzL2lwbDIwMjIvbWFyLzE1NDAwMTQxNTIvMTVtaW5kdnJtMDE5NjkyOTY0ZjRmNDg0OTMyODBhYzlkYThmMGVhMzA1MzA0YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkxNjYzNDh9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=gaf-iUrcpfcefqisUYXtC5p3Yir6ef895oxgNf76IAQ3nsZsIu9SpufiPv-zHeldreDrSeRMoSrsaxkPZKpPwTpTXqR8PQimz3oLQToOGVWwgffMrHZDThW-5i9GbC9plvVIZlsanyy79vjahKlEHeCF72zfv9qgJftbWmSLXQ362dQL201WpRr2PmqnE7ykRmqL2VCljAwYBX0vHtls~WhsfzkocWGUe~VV79q400Emwp-QK-gnREGYB44fDkwIte-leLz-m6XOfpPBzCazOCa5AZMwFBb5CwP1jWSWUsTLoo9cjXU2bozm1FbcnwQnnof8YQzVJnRGVjD19RH15w__; ajs_group_id=null; hs_uid=ca7e8f61-52ee-4c8a-a8c2-ada12a3f1d61; _gcl_au=1.1.2124619403.1649079844; _uetsid=4b7cdb40b41d11eca26c8b171cc3350e; _uetvid=4b7dca20b41d11eca0aea9aaf1b6a785; _ga=GA1.2.770210647.1649079844; _gid=GA1.2.1643707417.1649079846; _fbp=fb.1.1649079846459.960189152; _clck=b2wbz6|1|f0c|0; _clsk=c2ueeb|1649079849240|1|0|l.clarity.ms/collect; _ga_QV5FD29XJC=GS1.1.1649079843.1.1.1649079850.53; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%22456a639d-7afe-4d34-a024-caf17798e94d%22,
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODkzL2lwbDIwMjIvbWFyLzE1NDAwMTQxNTIvMTVtaW5kdnJtMDE5NjkyOTY0ZjRmNDg0OTMyODBhYzlkYThmMGVhMzA1MzA0YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkxNjYzNDh9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=gaf-iUrcpfcefqisUYXtC5p3Yir6ef895oxgNf76IAQ3nsZsIu9SpufiPv-zHeldreDrSeRMoSrsaxkPZKpPwTpTXqR8PQimz3oLQToOGVWwgffMrHZDThW-5i9GbC9plvVIZlsanyy79vjahKlEHeCF72zfv9qgJftbWmSLXQ362dQL201WpRr2PmqnE7ykRmqL2VCljAwYBX0vHtls~WhsfzkocWGUe~VV79q400Emwp-QK-gnREGYB44fDkwIte-leLz-m6XOfpPBzCazOCa5AZMwFBb5CwP1jWSWUsTLoo9cjXU2bozm1FbcnwQnnof8YQzVJnRGVjD19RH15w__; ajs_group_id=null; hs_uid=ca7e8f61-52ee-4c8a-a8c2-ada12a3f1d61; _gcl_au=1.1.2124619403.1649079844; _uetsid=4b7cdb40b41d11eca26c8b171cc3350e; _uetvid=4b7dca20b41d11eca0aea9aaf1b6a785; _ga=GA1.2.770210647.1649079844; _gid=GA1.2.1643707417.1649079846; _fbp=fb.1.1649079846459.960189152; _clck=b2wbz6|1|f0c|0; _clsk=c2ueeb|1649079849240|1|0|l.clarity.ms/collect; _ga_QV5FD29XJC=GS1.1.1649079843.1.1.1649079850.53; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%22456a639d-7afe-4d34-a024-caf17798e94d%22",
          "origin":"",
          "useragent":"",
          "license":""
