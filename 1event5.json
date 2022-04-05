@@ -1,0 +1,97 @@
+{
+   "live":[{
+         "id":"0",
+         "category":"live",
+         "title":"RCB vs RR (Hindi S1 MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024725/ipl2022/hin/1540014155/15mindvrm01ba509d835e0643dead1ea7956c0c4a3905april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxNTUvMTVtaW5kdnJtMDFiYTUwOWQ4MzVlMDY0M2RlYWQxZWE3OTU2YzBjNGEzOTA1YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkyNTI1NzV9fX1dfQ__; CloudFront-Signature=PxjmU-zc8aDxrdA3~OwaXgoKjaya3xRuuKKu1a6ugdngX5N9RLq6HBkv2qVOTMF2goYOXk-CIp0GOeZnZ68x71pRqh2bTIhU1wl8yX7STaaajZWYOYY7AbkWf528IigIABda~zV5rUWLEfKMn2kt3gJG7K24QObXfd-5xN8ak9mbN05x2mu3xhqlsPA4qKjpAPJ2x8XSp52wA4rs5a18qLs9w3Xk-uIh7Y~rKWxhYnvDWvMZvIxWmbrjA-J~bYwooSbS8sCUyKUs8TL6dWTfioc4p5qleq-RwU0Qu4-vlztaVyDY4JzfRUyr6p1Zd69Ni0vvJU9IWo1gqVoJsCEt7A__; _fbp=fb.1.1649166020472.1197340085; ajs_anonymous_id=%225f1eca6b-cd19-446c-aa35-cc6be9bd1f53%22; hs_uid=022af198-0b25-426f-a055-2534b70bae6e; _ga_QV5FD29XJC=GS1.1.1649165991.1.1.1649166029.22; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"RCB vs RR (Hindi S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "type":"hls",
+         "liveUrl":"https://g1.fctelerium.com:999/hls/starhindi.m3u8?md5=_zxZwrQY-Iw53L7YEnOyZw&expires=1649173750",
+         "referer": "https://noob4cast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"RCB vs RR (English S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024720/ipl2022/eng/1540014155/15mindvrm01ba509d835e0643dead1ea7956c0c4a3905april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzIwL2lwbDIwMjIvZW5nLzE1NDAwMTQxNTUvMTVtaW5kdnJtMDFiYTUwOWQ4MzVlMDY0M2RlYWQxZWE3OTU2YzBjNGEzOTA1YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkyNTI2MDh9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=SKKeSus4MpB-Ne-0iMdEhc2MFWNEniYV641SAcFBqGMjrjYscB2JxymFy7PvGtcpvKcoeTxuZeMCpLR8M7SsnG1ltLJwTQt0xuxxtsZ5KFlNNf0RnKNzqMB0kyGvBuuDAkxH22CjiczT9ldCXGD-ypU~t4J2X7H8afMCvRvOlgR3qb9vtmof4r2yFn8j4WLfVJlSDUBybqEoVOET4E8kP732BTpOQBkVtllVN7RUePkeW7dZek9Z4Xfep8aCDVG2-Z~~OG7~VoXGtaFywXB5twFQ8ZUtmTTXtcmUzQM3OmKRdp6iO2KdR6gtiEmHWn-4m2eRFOiT7aqMd2QGN9xtVQ__; _fbp=fb.1.1649166020472.1197340085; ajs_anonymous_id=%225f1eca6b-cd19-446c-aa35-cc6be9bd1f53%22; hs_uid=022af198-0b25-426f-a055-2534b70bae6e; _ga_QV5FD29XJC=GS1.1.1649165991.1.1.1649166029.22; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"3",
+         "category":"live",
+         "title":"RCB vs RR (Tamil S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003715/ipl2022/tam/1540014155/15mindvrm01ba509d835e0643dead1ea7956c0c4a3905april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzNzE1L2lwbDIwMjIvdGFtLzE1NDAwMTQxNTUvMTVtaW5kdnJtMDFiYTUwOWQ4MzVlMDY0M2RlYWQxZWE3OTU2YzBjNGEzOTA1YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkyNTI0OTl9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=ejc6TYS3lT3d0cEZljf7SG20MscXSQM5x4gCApFTbmB0o4d9M2--26of-zzA5Rn1HU8gSNnk8xCkwJBseSkTpymdKUuwlqeBMGJu7tAsImvsFqpoYDDnMU-NCksIpzXbyQYne4LSm-qRYpOiNwdt4fg-w7z1MvbuWTa9cSpoZo~pdF-yIhQk~qy7XIgmTe3RT5n~gYbgywnZ9n5ZruAxAXFt0eZcAt-~s921j5n30Yl6j~UAqaBCyzfSI2VK-imqwV05OKeJci60A6WJKBwVuX-Mo2HeanhjxWZmIzTzWHP7Pb5~wKSFxctQrWeNVP1U3RONEt-o-1NUoi6LRk~3TQ__; _fbp=fb.1.1649166020472.1197340085; ajs_anonymous_id=%225f1eca6b-cd19-446c-aa35-cc6be9bd1f53%22; hs_uid=022af198-0b25-426f-a055-2534b70bae6e; _ga_QV5FD29XJC=GS1.1.1649165991.1.1.1649166029.22; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"4",
+         "category":"live",
+         "title":"RCB vs RR (Kannada S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003881/ipl2022/kan/1540014155/15mindvrm01ba509d835e0643dead1ea7956c0c4a3905april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODgxL2lwbDIwMjIva2FuLzE1NDAwMTQxNTUvMTVtaW5kdnJtMDFiYTUwOWQ4MzVlMDY0M2RlYWQxZWE3OTU2YzBjNGEzOTA1YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkyNTI1MTF9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=NwKWzpyCPKISwrUVtJoPrz97WkAqwPJbzOeOdflUyYy6a2W8FLRmaYPXrcPdP~RBSBaWhxeSX8qqtC53NVAJlnwfA-nj~Z5W3ERXQfKJ2q9H9NbTVN40x4uDeqUpNPPfOkm7ZBZretVylcN3kOXpMJ36RhVaApHiqMXgmkEVDEtWEOI~QG8jNu2wGEg8~eN93He6UMXTgmLesFOmYkBkXDu8xcrQaanHNQKs3lNtmV35pRsWJHswNRMuLrFhtfJ4xGpzifEFs~Wrggegn52cw4AOoqo9JYLHu1C~WNcotngvDepabvfA~daIEroPJsogf4KSiq90QxcOYwwYzBVfjg__; _fbp=fb.1.1649166020472.1197340085; ajs_anonymous_id=%225f1eca6b-cd19-446c-aa35-cc6be9bd1f53%22; hs_uid=022af198-0b25-426f-a055-2534b70bae6e; _ga_QV5FD29XJC=GS1.1.1649165991.1.1.1649166029.22; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"RCB vs RR (Telegu S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003877/ipl2022/tel/1540014155/15mindvrm01ba509d835e0643dead1ea7956c0c4a3905april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODc3L2lwbDIwMjIvdGVsLzE1NDAwMTQxNTUvMTVtaW5kdnJtMDFiYTUwOWQ4MzVlMDY0M2RlYWQxZWE3OTU2YzBjNGEzOTA1YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkyNTI1NTB9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=nP-EnSDkHI30-WOjJyT4vi38en~e1EJ9Zv1yS5hRLWZT88fHiiCOlUF4egfoTOuxZVSFSqW-09ZILPtX-MJH4XIrtrNKaHo6LXSdyrdnrWXn2gqTM0-i-a~wGilhueCjP4OoUrMlcinJW4q6-vjnrf8LpJvJ2Js2FO-HqY2lgN87jVVAbmIDfGuALMXjraciynUpRVbGJi5T1iCZcYqcJhm0Gijzf-~0-Dtj~RRjn42dR0ImxXIXhS8h-CwZKI2PhljWSLwj3rrL92CjuhDLNUUl2jim763VRySe6LOyqif6qHUJFxCdbaoz6EqHKdd0o1G9Fw3llqh1qMYJcrkexQ__; _fbp=fb.1.1649166020472.1197340085; ajs_anonymous_id=%225f1eca6b-cd19-446c-aa35-cc6be9bd1f53%22; hs_uid=022af198-0b25-426f-a055-2534b70bae6e; _ga_QV5FD29XJC=GS1.1.1649165991.1.1.1649166029.22; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"RCB vs RR (Marathi S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003893/ipl2022/mar/1540014155/15mindvrm01ba509d835e0643dead1ea7956c0c4a3905april2022/master.m3u8",
+         "referer": "",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODkzL2lwbDIwMjIvbWFyLzE1NDAwMTQxNTUvMTVtaW5kdnJtMDFiYTUwOWQ4MzVlMDY0M2RlYWQxZWE3OTU2YzBjNGEzOTA1YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkyNTI0ODd9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=WMFeZFekW3vmhz0nRSTDVMd3jwvDuf2kWb30vs9uPm7aYwvr23rbE5zzdCmdkCsgGxbnviaxRxxUw76B~AmVtRkMDdghsgbfnf2EEL9dX9gOva3-9CBqPSvHzoalHvPpnlm8kr-WYZ6XYuemyxqSShrnzwpasqJSVNitt~LtofvocpxAX7vBi5gMTAKlYCpTlcbHh4uMZ5Jmi7HGPkC4hy4tjv0LpBRLD-ZtCCalJpYXOsWq0HTST6qTHHB-vQ0aHqMAJijlfspJmv~zEPfgab8KGHzI2B803RFX-5BuVpdjcVDQWOvIa7CsCkH2HuRJJFnbdIPVBF4MOwEx7GDqOg__; _fbp=fb.1.1649166020472.1197340085; ajs_anonymous_id=%225f1eca6b-cd19-446c-aa35-cc6be9bd1f53%22; hs_uid=022af198-0b25-426f-a055-2534b70bae6e; _ga_QV5FD29XJC=GS1.1.1649165991.1.1.1649166029.22; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "origin":"",
+         "useragent":"",
+         "license":""
+      }
+   ]
+  }
