@@ -17,14 +17,14 @@
 {
          "id":"1",
          "category":"live",
-         "title":"RCB vs RR (Hindi S1 MQ)",
+         "title":"MI vs KKR (Hindi S1 MQ)",
          "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2993/1172993-h-585514f5fae4",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
          "type":"hls",
-         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024725/ipl2022/hin/1540014155/15mindvrm01ba509d835e0643dead1ea7956c0c4a3905april2022/master.m3u8",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024725/ipl2022/hin/1540014158/15mindvrm01b18d060069ff42758f610b1fdb43532606april2022/master.m3u8",
          "referer": "",
          "origin":"",
-         "cookie":"CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxNTUvMTVtaW5kdnJtMDFiYTUwOWQ4MzVlMDY0M2RlYWQxZWE3OTU2YzBjNGEzOTA1YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkyNTI1NzV9fX1dfQ__; CloudFront-Signature=PxjmU-zc8aDxrdA3~OwaXgoKjaya3xRuuKKu1a6ugdngX5N9RLq6HBkv2qVOTMF2goYOXk-CIp0GOeZnZ68x71pRqh2bTIhU1wl8yX7STaaajZWYOYY7AbkWf528IigIABda~zV5rUWLEfKMn2kt3gJG7K24QObXfd-5xN8ak9mbN05x2mu3xhqlsPA4qKjpAPJ2x8XSp52wA4rs5a18qLs9w3Xk-uIh7Y~rKWxhYnvDWvMZvIxWmbrjA-J~bYwooSbS8sCUyKUs8TL6dWTfioc4p5qleq-RwU0Qu4-vlztaVyDY4JzfRUyr6p1Zd69Ni0vvJU9IWo1gqVoJsCEt7A__; _fbp=fb.1.1649166020472.1197340085; ajs_anonymous_id=%225f1eca6b-cd19-446c-aa35-cc6be9bd1f53%22; hs_uid=022af198-0b25-426f-a055-2534b70bae6e; _ga_QV5FD29XJC=GS1.1.1649165991.1.1.1649166029.22; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxNTgvMTVtaW5kdnJtMDFiMThkMDYwMDY5ZmY0Mjc1OGY2MTBiMWZkYjQzNTMyNjA2YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkzMzc4MDd9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=dRmpj5zf-TrcQRmcLQhXaun1-sCFmg1I7JIKU0XZvIM8ulg7raAC2FJAtm~x2TfBcyYrTTQHwwFJcRgkMckMkRg4PAYw0bC8kStbzTW7DzI9lLD7Gl2SVv2jtUb4-sTag7VOvYVnjy-yEj89zmptfbBihAff1i1JHhPpRZHCowQFNgWEBITJ1kS06yAZwnMhVxMf7mYTiOAma5kVRhIpGTuvC41Icd1xvLtqkwPK6F6nbjxkE6E7VGroL4MN9hPbmIhzFS7OGG4LA8jd20BMzBKYHvcQOlOMWsOheN7Zf1fhKYZk5aFAmn28M8KUKBnD0d7UkkBR0i~afnAqrc~3Og__; ajs_group_id=null; hs_uid=948bb8e7-57d9-4b3e-ad2d-7fc45f846baa; _gcl_au=1.1.751372017.1649251321; _ga=GA1.1.231494333.1649251321; _uetsid=8b9f8d20b5ac11eca974c131588f32d9; _uetvid=8ba00c80b5ac11ec92c52b40d98c55c0; _fbp=fb.1.1649251322563.312028326; _ga_QV5FD29XJC=GS1.1.1649251321.1.1.1649251342.39; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%228793a8f5-bcb5-45b9-806e-9ec116daf9cf%22",
          "useragent":"",
          "license":""
       },
