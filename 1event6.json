@@ -1,0 +1,97 @@
+{
+   "live":[{
+         "id":"0",
+         "category":"live",
+         "title":"MI vs KKR (Hindi S1 MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024725/ipl2022/hin/1540014158/15mindvrm01b18d060069ff42758f610b1fdb43532606april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxNTgvMTVtaW5kdnJtMDFiMThkMDYwMDY5ZmY0Mjc1OGY2MTBiMWZkYjQzNTMyNjA2YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkzMzc4MDd9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=dRmpj5zf-TrcQRmcLQhXaun1-sCFmg1I7JIKU0XZvIM8ulg7raAC2FJAtm~x2TfBcyYrTTQHwwFJcRgkMckMkRg4PAYw0bC8kStbzTW7DzI9lLD7Gl2SVv2jtUb4-sTag7VOvYVnjy-yEj89zmptfbBihAff1i1JHhPpRZHCowQFNgWEBITJ1kS06yAZwnMhVxMf7mYTiOAma5kVRhIpGTuvC41Icd1xvLtqkwPK6F6nbjxkE6E7VGroL4MN9hPbmIhzFS7OGG4LA8jd20BMzBKYHvcQOlOMWsOheN7Zf1fhKYZk5aFAmn28M8KUKBnD0d7UkkBR0i~afnAqrc~3Og__; ajs_group_id=null; hs_uid=948bb8e7-57d9-4b3e-ad2d-7fc45f846baa; _gcl_au=1.1.751372017.1649251321; _ga=GA1.1.231494333.1649251321; _uetsid=8b9f8d20b5ac11eca974c131588f32d9; _uetvid=8ba00c80b5ac11ec92c52b40d98c55c0; _fbp=fb.1.1649251322563.312028326; _ga_QV5FD29XJC=GS1.1.1649251321.1.1.1649251342.39; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%228793a8f5-bcb5-45b9-806e-9ec116daf9cf%22",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"MI vs KKR (Hindi S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
+         "type":"hls",
+         "liveUrl":"https://g1.fctelerium.com:999/hls/starhindi.m3u8?md5=KBMtLB2IiRWlJTHuN0C8hg&expires=1649259008",
+         "referer": "https://noob4cast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"MI vs KKR (English S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2024720/ipl2022/eng/1540014158/15mindvrm01b18d060069ff42758f610b1fdb43532606april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzIwL2lwbDIwMjIvZW5nLzE1NDAwMTQxNTgvMTVtaW5kdnJtMDFiMThkMDYwMDY5ZmY0Mjc1OGY2MTBiMWZkYjQzNTMyNjA2YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkzMzc4NTJ9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=KQry-bxgpjt5FgNsI4o9l7Wl0QWc6nDSwXbQtLy-zGKwTlEJV~fQSvJwCy63wPz-pIPdBmTDI3orjF4h1MqPWcXIfm6GzvkB-6IjVhzeNfakrXmGK29G06d3OaKr~JrKpXAGUF3Ukw8azqJaZRH38rQSQym24l9J2zMSWyvadD7zPbMSdrsWu8n4kjpmIrbLyJk5B1z8PKr-9jYs-kJz4YWGKLeiJBnjOzU7ks8H4udbTkZxyfZJ3OlHYYdiLKh6vwCDnqPXfJtzBGfDzuKlSrzpEPmJ7JdDP4pYTm2efpYK2kHbiJ6qzD4z7q4a3ROHs5Iysx611FEvhreAl6t-OA__; ajs_group_id=null; hs_uid=948bb8e7-57d9-4b3e-ad2d-7fc45f846baa; _gcl_au=1.1.751372017.1649251321; _ga=GA1.1.231494333.1649251321; _uetsid=8b9f8d20b5ac11eca974c131588f32d9; _uetvid=8ba00c80b5ac11ec92c52b40d98c55c0; _fbp=fb.1.1649251322563.312028326; _ga_QV5FD29XJC=GS1.1.1649251321.1.1.1649251342.39; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%228793a8f5-bcb5-45b9-806e-9ec116daf9cf%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"3",
+         "category":"live",
+         "title":"MI vs KKR (Tamil S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003715/ipl2022/tam/1540014158/15mindvrm01b18d060069ff42758f610b1fdb43532606april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzNzE1L2lwbDIwMjIvdGFtLzE1NDAwMTQxNTgvMTVtaW5kdnJtMDFiMThkMDYwMDY5ZmY0Mjc1OGY2MTBiMWZkYjQzNTMyNjA2YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkzMzc4MzB9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=Gud6CWpQ69sL3hBxnIP7buXMJ-4UZw6yJbmA0vXmPkSWA3HZG31PLW-kRf9n8WDg92yy-hxdbBtlkWAfppXB8iQcU6pwvuvV7Sjg~YTx8y00aj8n6trqCXBMiyLy~z7qZfptnleX1FVkjzseUjY0oxRFB7AS3HMKlCMDV1BuYgyxRgpFvrR7p9heDiGLBz9F~1koC57iPkfu493dWPx79Knwh-fArKb7FizTWVz9PFj4jOmm1~VSSUSzAIQRvKg3JZOOh~Bc9BTJc3ZqeDo17rxRESC1hPB0BhBWnvLpdPKhFdH7AgBt7~qiaHvKjsdr~wv5EZSw2s6uPDwVLU6Ymw__; ajs_group_id=null; hs_uid=948bb8e7-57d9-4b3e-ad2d-7fc45f846baa; _gcl_au=1.1.751372017.1649251321; _ga=GA1.1.231494333.1649251321; _uetsid=8b9f8d20b5ac11eca974c131588f32d9; _uetvid=8ba00c80b5ac11ec92c52b40d98c55c0; _fbp=fb.1.1649251322563.312028326; _ga_QV5FD29XJC=GS1.1.1649251321.1.1.1649251342.39; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%228793a8f5-bcb5-45b9-806e-9ec116daf9cf%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"4",
+         "category":"live",
+         "title":"MI vs KKR (Kannada S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003881/ipl2022/kan/1540014158/15mindvrm01b18d060069ff42758f610b1fdb43532606april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODgxL2lwbDIwMjIva2FuLzE1NDAwMTQxNTgvMTVtaW5kdnJtMDFiMThkMDYwMDY5ZmY0Mjc1OGY2MTBiMWZkYjQzNTMyNjA2YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkzMzc4NDF9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=TQQL1eM6A-OU6USV0cWbjoR5C7BiJR1klFOLL5QyHlRVT5rlyO-SqDSYGC4QNBROhKaX7INbAmmdf7UhrqZ5XbqN9RgDCRkYNiqSpbktdhvIToI6sgOqAXECcxd1HVg4cae7KV6NiZ8dAyh-WpcvE5Ivrd2sv0yQ8E6swCUcnFv-Nbod39N7s6DsN~yz8nYqJCcV4UsTTeorlC3l0Mi3cLDxzDoaUAACA1sUqjE0bpWWdlEkMciiOREsRKpCOH57X9VDiO354vDW3Z7RmNmPr4VVi0prZ~CBShG4CmzWBIhIF~sT1rCjUJ7GhlE6IalAyPzeAFqB0Op-jRPaa9nPWw__; ajs_group_id=null; hs_uid=948bb8e7-57d9-4b3e-ad2d-7fc45f846baa; _gcl_au=1.1.751372017.1649251321; _ga=GA1.1.231494333.1649251321; _uetsid=8b9f8d20b5ac11eca974c131588f32d9; _uetvid=8ba00c80b5ac11ec92c52b40d98c55c0; _fbp=fb.1.1649251322563.312028326; _ga_QV5FD29XJC=GS1.1.1649251321.1.1.1649251342.39; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%228793a8f5-bcb5-45b9-806e-9ec116daf9cf%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"MI vs KKR (Telegu S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003877/ipl2022/tel/1540014158/15mindvrm01b18d060069ff42758f610b1fdb43532606april2022/master.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODc3L2lwbDIwMjIvdGVsLzE1NDAwMTQxNTgvMTVtaW5kdnJtMDFiMThkMDYwMDY5ZmY0Mjc1OGY2MTBiMWZkYjQzNTMyNjA2YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkzMzc4NjR9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=mGIEIADv1cHswFrgIH1g5axW3HHFpXaNFxv91cyzu1fgmSBjueuk08-0g42LdMyiq02rPieslOnh7DlARMtzSGlPvsiQse9b~zHY8CJOlAqQAa4EUWzndo7WZ2WF4g3szWsxY25~2hxtoVoZTYy6TzEC2usVYaZ~b-QgyEH63iZe-UioEVzp8Np9A8rlLYbzucekjsIBZ8gBr6XO1aexbvfaZCA6MdkUbshWA3n0-QdD4cnrryh7WHc8PvJiodAGruS4NQs7jnVKB~wEoTbV1J-7QalAOJkBW0nbWuCIXuuBu7oxnznIimShiDQhlj6UbiH37I~GDNT2rAm7AVFhjw__; ajs_group_id=null; hs_uid=948bb8e7-57d9-4b3e-ad2d-7fc45f846baa; _gcl_au=1.1.751372017.1649251321; _ga=GA1.1.231494333.1649251321; _uetsid=8b9f8d20b5ac11eca974c131588f32d9; _uetvid=8ba00c80b5ac11ec92c52b40d98c55c0; _fbp=fb.1.1649251322563.312028326; _ga_QV5FD29XJC=GS1.1.1649251321.1.1.1649251342.39; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%228793a8f5-bcb5-45b9-806e-9ec116daf9cf%22",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"5",
+         "category":"live",
+         "title":"MI vs KKR (Marathi S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/4141/1174141-h-3b85f6217bfc",
+         "type":"hls",
+         "liveUrl":"https://live-cf.cdn.hotstar.com/hls/live/2003893/ipl2022/mar/1540014158/15mindvrm01b18d060069ff42758f610b1fdb43532606april2022/master.m3u8",
+         "referer": "",
+         "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDAzODkzL2lwbDIwMjIvbWFyLzE1NDAwMTQxNTgvMTVtaW5kdnJtMDFiMThkMDYwMDY5ZmY0Mjc1OGY2MTBiMWZkYjQzNTMyNjA2YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDkzMzc4MjB9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=eCJM1D5ZrzxrlO1ZH38yi0tK3SeClP9nMakjUb~6za4wdPRR-v3Klw2dVtA6G99dceMF6xES260hoyll2pq6PbBsDhP7FNijaGamo5Fp2OEG9ilm0Z4C1dAtdwiRfA0dpcVGiwW-wEZFx4DPnFkIQPSAFdiBsaIuXuXgA0ro9bWziaR6VTE4YhzTMavNGe2HSB-CEnGdzm~J3XbgmBqu7Zn3HqyP3eneBSMXKvOsjGMdc~LWCxKmE9QMXF3mMAk~Ft494k6Zcht0iCfQMTy6JmQiLYGIKtcUMvDKQzt3vzcLJtIHfHSqYAN5GVV2Ox~my22ljHsWKhsnQ9yzhydF8Q__; ajs_group_id=null; hs_uid=948bb8e7-57d9-4b3e-ad2d-7fc45f846baa; _gcl_au=1.1.751372017.1649251321; _ga=GA1.1.231494333.1649251321; _uetsid=8b9f8d20b5ac11eca974c131588f32d9; _uetvid=8ba00c80b5ac11ec92c52b40d98c55c0; _fbp=fb.1.1649251322563.312028326; _ga_QV5FD29XJC=GS1.1.1649251321.1.1.1649251342.39; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%228793a8f5-bcb5-45b9-806e-9ec116daf9cf%22",
+         "origin":"",
+         "useragent":"",
+         "license":""
+      }
+   ]
+  }
