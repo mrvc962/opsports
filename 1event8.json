@@ -2,6 +2,19 @@
    "live":[{
          "id":"2",
          "category":"live",
+         "title":"PBKS vs GT (English)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2112/1182112-h-6aa06f064f0d",
+         "type":"hls",
+         "liveUrl":"https://ex.gurcubegli.xyz/M646390/M646390.m3u8",
+         "referer": "https://rajabets2.tv/",
+         "origin":"https://rajabets2.tv",
+         "cookie":"",
+         "useragent":"Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
+         "license":""
+      },{
+         "id":"2",
+         "category":"live",
          "title":"PBKS vs GT (Hindi MQ)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2112/1182112-h-6aa06f064f0d",
