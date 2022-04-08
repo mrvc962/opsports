@@ -6,7 +6,7 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2112/1182112-h-6aa06f064f0d",
          "type":"hls",
-         "liveUrl":"https://cdn2.mynrwsf.xyz/ipllive1/2.m3u8",
+         "liveUrl":"https://cdn2.mynrwsf.xyz/ipllive1/.m3u8",
          "referer": "https://iplclick.xyz/",
          "origin":"",
          "cookie":"",
