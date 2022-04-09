@@ -1,25 +1,12 @@
 {
    "live":[{
-         "id":"2",
-         "category":"live",
-         "title":"PBKS vs GT (English)",
-         "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2112/1182112-h-6aa06f064f0d",
-         "type":"hls",
-         "liveUrl":"https://ex.gurcubegli.xyz/M646390/M646390.m3u8",
-         "referer": "https://rajabets2.tv/",
-         "origin":"https://rajabets2.tv",
-         "cookie":"",
-         "useragent":"Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
-         "license":""
-      },{
          "id":"1",
          "category":"live",
          "title":"PBKS vs GT (Hindi S2)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2112/1182112-h-6aa06f064f0d",
          "type":"hls",
-         "liveUrl":"https://g1.fctelerium.com:999/hls/starhindi.m3u8?md5=6-KBlQMt1CQ5ZOktVi4ZVg&expires=1649445194",
+         "liveUrl":"https://g6.fctelerium.com:999/hls/starhindi.m3u8?md5=1m1s-n4MsRNw8PkgRuhwoA&expires=1649501849",
          "referer": "https://noob4cast.com/",
          "origin":"",
          "cookie":"CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9saXZlLWNmLmNkbi5ob3RzdGFyLmNvbS9obHMvbGl2ZS8yMDI0NzI1L2lwbDIwMjIvaGluLzE1NDAwMTQxNjEvMTVtaW5kdnJtMDFiZWZhMjA4Mzc0MTM0ZjE5Yjk0NjU1MDEzOWI0NmViYjA3YXByaWwyMDIyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NDk0MjU0NDB9fX1dfQ__; CloudFront-Key-Pair-Id=APKAJC3ILMJXG4AINKJA; CloudFront-Signature=KlIYxN1QAdZ-GD0j3nhKBTlkdapgV56TtMe5w6OsI2H8L8S1RRg2YUyLR0y3XCtyOrAzYl~msOtE82duWlboj8Aj4vZldHrg5FNTOWzf5NwpTR12GwyQ9DeT6fbzjeRa9y175EO7mCe2og4S9WX~Wu-6ACD4hRR9UIqfHUGRZO5qLv63aSExj15eBOd8pR0h0UeaNq966ezqk9sRNZv12iAFWkZ3WxCrcMqa5jPAL6AcfCEOAMc02r6NpPVNwkvvy1R4odJ3WWfI0sc~Q3qeyXfy9eWMtiNaLD3fsSoQFzbp68jm97WUxkMB3K2lnk82u6IaAPd3SJgdhslh7s1~Sw__; hs_uid=123355f6-7f7c-4025-8c41-12b8a1a5a66d; ajs_group_id=null; _gcl_au=1.1.725595528.1649338958; _ga=GA1.1.1591244006.1649338959; _fbp=fb.1.1649338959392.63610164; _uetsid=e3daec60b5cf11ec8d28937778ab93f4; _uetvid=e3db5bf0b5cf11eca2f11751c7bbf99c; ajs_user_id=%229f352756ad6e4f4d9f1f2e188513e4dd%22; ajs_anonymous_id=%22cb98869b-e8d2-44be-bd33-450d6d3b0dd3%22; _ga_QV5FD29XJC=GS1.1.1649338958.1.1.1649339005.13",
