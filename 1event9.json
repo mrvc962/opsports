@@ -1,0 +1,32 @@
+{
+   "live":[{
+         "id":"1",
+         "category":"live",
+         "title":"CSK vs SRH (Hindi S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
+         "type":"hls",
+         "liveUrl":"https://g6.fctelerium.com:999/hls/starhindi.m3u8?md5=1m1s-n4MsRNw8PkgRuhwoA&expires=1649501849",
+         "referer": "https://noob4cast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+
+{
+         "id":"2",
+         "category":"live",
+         "title":"CSK vs SRH (English S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
+         "type":"hls",
+         "liveUrl":"https://g5.fctelerium.com:999/hls/star1in.m3u8?md5=vWmB3R-UULkiN6M8PZBo9g&expires=1649501970",
+         "referer": "https://noob4cast.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
+         "license":""
+      }
+   ]
+  }
