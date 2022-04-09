@@ -2,7 +2,7 @@
    "live":[{
          "id":"1",
          "category":"live",
-         "title":"CSK vs SRH (Hindi S2)",
+         "title":"RCB vs MI (Hindi S2)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
          "type":"hls",
@@ -17,7 +17,7 @@
    {
          "id":"2",
          "category":"live",
-         "title":"CSK vs SRH (English S2)",
+         "title":"RCB vs MI (English S2)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
          "type":"hls",
@@ -44,7 +44,7 @@
 {
          "id":"2",
          "category":"live",
-         "title":"CSK vs SRH (Tamil  S1)",
+         "title":"RCB vs MI (Tamil  S1)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
          "type":"hls",
@@ -58,7 +58,7 @@
 {
          "id":"2",
          "category":"live",
-         "title":"CSK vs SRH (Telegu  S1)",
+         "title":"RCB vs MI (Telegu  S1)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
          "type":"hls",
