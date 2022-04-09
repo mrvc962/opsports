@@ -2,19 +2,6 @@
    "live":[{
          "id":"1",
          "category":"live",
-         "title":"CSK vs SRH (Hindi MQ)",
-         "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
-         "type":"hls",
-         "liveUrl":"https://kytelive.lalalalalori.workers.dev/live.m3u8?lang=hls/live/2027118/ipl2022/hin/1540014167/15mindvrm017ad8c64eb90942a5a6ac938014fa148909april2022/",
-         "referer": "https://www.hotstar.com/",
-         "origin":"https://www.hotstar.com",
-         "cookie":'hs_uid=b52db376-f457-42e0-8e19-351a75ad64c9; ajs_group_id=null; _gcl_au=1.1.1144788484.1648556833; _fbp=fb.1.1648556833651.82643673; ajs_user_id="071bddcfa137441b86727e7a33298bdc"; ajs_anonymous_id="4d011d26-6abc-4b5d-9c73-86178767c857"; _gid=GA1.2.616875735.1649424030; _clck=176drrr|1|f0h|0; hdntl=exp=1649582668~acl=*ipl2022*~id=83c849cead639534cca704d48b716305~data=ip=AropJ0S1HWtrAjEMGBRdXA-userid=SGBJ4JdNa8UWoD6FlIyQCujCZCask9WPBdXdK0cblziL-did=Y2HdnOCx1ZL4ZAIaunYr57dSlxlPufN5dLnfymobWR1Gmy3l5soQf5k-cc=in-~hmac=3b49ae43038880e97dfc467ddf590d3218bda618820844163733423af32e4786; _ga_QV5FD29XJC=GS1.1.1649493318.16.1.1649496827.51; _ga=GA1.1.841926163.1648556833; _gcl_dc=GCL.1649496828.CjgKEAjw3cSSBhC_oa7Ikvi3xAUSJAD0-ixTy_jmUeju_OK7vwOwrQ_6hlZgLvnBnP-4Jf6w13LyWfD_BwE; _uetsid=a9ef2dc0b73e11ec849ae50eab3e4057; _uetvid=901ad160af5b11eca7d9bf283b472d75; _clsk=8rt1n1|1649496829837|13|0|i.clarity.ms/collect',
-         "useragent":"",
-         "license":""
-      },{
-         "id":"1",
-         "category":"live",
          "title":"CSK vs SRH (Hindi S2)",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/7731/1187731-h-40ab4094e405",
