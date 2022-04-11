@@ -1,0 +1,71 @@
+{
+   "live":[{
+         "id":"2",
+         "category":"live",
+         "title":"SRH vs GT (Hindi)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2171/1192171-h-3026d09d0c44",
+         "type":"hls",
+         "liveUrl":"https://g4.fctelerium.com:999/hls/starhindi.m3u8?md5=1l3GTmiubTJ7q4-nPRJ0rQ&expires=1649691164",
+         "referer": "https://noob4cast.com/",
+         "origin":"https://noob4cast.com",
+         "cookie":'',
+         "useragent":"Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
+         "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"SRH vs GT (ENGLISH)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2171/1192171-h-3026d09d0c44",
+         "type":"hls",
+         "liveUrl":"https://g7.fctelerium.com:999/hls/star1in.m3u8?md5=P1ye285Gcyced4gh1i9_zQ&expires=1649691213",
+         "referer": "https://noob4cast.com/",
+         "origin":"https://noob4cast.com",
+         "cookie":'',
+         "useragent":"Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
+         "license":""
+      },{
+         "id":"2",
+         "category":"live",
+         "title":"SRH vs GT (Hindi 240p)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2171/1192171-h-3026d09d0c44",
+         "type":"hls",
+         "liveUrl":"http://live12p.akt.hotstar-cdn.net/hls/live/2003704/ipl2022/hin/1540014179/15mindvrm0187e6bd4eda38482fb31fb632d4c9f88611april2022/master_2.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":'hdntl=exp=1649685960~acl=*ipl2022*~id=8457e086de12adbcf3852309d772ae9b~data=ip%3ddzfzFzucHkFM2XW8ImdnVFp3viWfTAHsDN0WC3PEOa4IOLd8Zzfj1mK-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=e0badba2ab9fd48ee2dcaa021a2b06f85b9f4889b76b31eaf57273c8631bf189',
+         "useragent":"user-agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "license":""
+      },{
+         "id":"2",
+         "category":"live",
+         "title":"SRH vs GT (Hindi 360p)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2171/1192171-h-3026d09d0c44",
+         "type":"hls",
+         "liveUrl":"http://live12p.akt.hotstar-cdn.net/hls/live/2003704/ipl2022/hin/1540014179/15mindvrm0187e6bd4eda38482fb31fb632d4c9f88611april2022/master_3.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":'hdntl=exp=1649685960~acl=*ipl2022*~id=8457e086de12adbcf3852309d772ae9b~data=ip%3ddzfzFzucHkFM2XW8ImdnVFp3viWfTAHsDN0WC3PEOa4IOLd8Zzfj1mK-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=e0badba2ab9fd48ee2dcaa021a2b06f85b9f4889b76b31eaf57273c8631bf189',
+         "useragent":"user-agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"SRH vs GT (Hindi 720p)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2171/1192171-h-3026d09d0c44",
+         "type":"hls",
+         "liveUrl":"http://live12p.akt.hotstar-cdn.net/hls/live/2003704/ipl2022/hin/1540014179/15mindvrm0187e6bd4eda38482fb31fb632d4c9f88611april2022/master_6.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":'hdntl=exp=1649685960~acl=*ipl2022*~id=8457e086de12adbcf3852309d772ae9b~data=ip%3ddzfzFzucHkFM2XW8ImdnVFp3viWfTAHsDN0WC3PEOa4IOLd8Zzfj1mK-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=e0badba2ab9fd48ee2dcaa021a2b06f85b9f4889b76b31eaf57273c8631bf189',
+         "useragent":"user-agent=Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "license":""
+      }
+   ]
+  }
