@@ -64,8 +64,8 @@
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/3585/1193585-h-fa3444360e6e",
          "type":"hls",
          "liveUrl":"https://live13p.hotstar.com/hls/live/2003877/ipl2022/tel/1540014182/15mindvrm01c24ac48d9cac415284ce1f09f3f2013512april2022/master_1.m3u8",
-         "referer":"https://www.hotstar.com/",
-         "origin":"https://www.hotstar.com",
+         "referer":"",
+         "origin":"",
          "cookie":"hdntl=exp=1649774648~acl=%2fhls%2flive%2f2003877%2fipl2022%2ftel%2f1540014182%2f15mindvrm01c24ac48d9cac415284ce1f09f3f2013512april2022*~id=185bbcdec6ffb153e152ba43c6a7fe0a~data=ip%3dnRvai7WCS3df40rfuJ2L0ozoV0BYxRqMNk1n3dj2NiDXcN9c8795Vxu-userid%3d8YTwiJSpa3NflIBeUfzhfy5BfXUJCVr0a-did%3dOl0EqIlzVbrd68s0uIjbBUqcCJYcRFN2THPvjsL5AGLoiYvWXF1cOai-cc%3din-~hmac=a178bcd765483fb52ade879d8e79ce7a392c5a855efc72d8ae430f8cc00ee63b",
          "useragent":"Hotstar;in.startv.hotstar.dplus/@GoldModsapk.1035 (Android/10)-M",
          "license":""
