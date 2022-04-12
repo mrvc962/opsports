@@ -34,12 +34,12 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2171/1192171-h-3026d09d0c44",
          "type":"hls",
-         "liveUrl":"http://live12p.akt.hotstar-cdn.net/hls/live/2003704/ipl2022/hin/1540014179/15mindvrm0187e6bd4eda38482fb31fb632d4c9f88611april2022/master_1.m3u8",
+         "liveUrl":"https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
          "referer": "",
          "origin":"",
-         "cookie":"hdntl=exp=1649787289~acl=*ipl2022*~id=0392c892ac94db5019c38b06113b5fe2~data=ip%3dSTU1jZkTgj5xCkFjhqlkhb-userid%3d8YTwiJSpa3NflIBeUfzhfy5BfXUJCVr0a-did%3dOl0EqIlzVbrd68s0uIjbBUqcCJYcRFN2THPvjsL5AGLoiYvWXF1cOai-cc%3din-~hmac=40d0af258eb22e63300c01a030aa8a7fc2f21103506b0c4c28f8d0ee08aed08a",
+         "cookie":"",
          "useragent":"Hotstar;in.startv.hotstar.dplus/@GoldModsapk.1035 (Android/10)-M",
-         "license":""
+         "license":"https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000020&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjM5NDE2MTU3IiwiaXNlIjp0cnVlLCJqdGkiOiIzYmM4ZWY1OC04NjUwLTRjZDUtODdiZi01MzVkNDA3MzE4MjIiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjQ5ODI4NjYzLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjQ5NzQyMjYzLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwNzEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAxNTYifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA0NzEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA1MDAifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA2NDcifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA3MTEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA5ODUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwNTEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDExMjQifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDExMzEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEyNzQifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEyOTYifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEzMDMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEzNjgifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE1MTIifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE1NzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE2ODUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE2OTQifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE4MTcifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImlzcyI6IlRUTiJ9.vFiZAc197jwdmUrjzzLPfsqCxqYVgKAenlYjYp_2Km0"
       }
    ]
   }
