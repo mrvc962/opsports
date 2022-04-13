@@ -3,9 +3,9 @@
       {
          "id":"2",
          "category":"live",
-         "title":"CSK vs RCB (ENGLISH)",
+         "title":"MI vs PBKS (ENGLISH)",
          "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/3585/1193585-h-fa3444360e6e",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/5118/1195118-h-d9e13dec82ba",
          "type":"hls",
          "liveUrl":"https://kytelivecast.lalalalalori.workers.dev/live.m3u8?id=star1in",
          "referer":"https://noob4cast.com/",
@@ -17,9 +17,9 @@
       {
          "id":"2",
          "category":"live",
-         "title":"CSK vs RCB (Hindi)",
+         "title":"MI vs PBKS (HINDI)",
          "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/3585/1193585-h-fa3444360e6e",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/5118/1195118-h-d9e13dec82ba",
          "type":"hls",
          "liveUrl":"https://kytelivecast.lalalalalori.workers.dev/live.m3u8?id=starhindi",
          "referer":"https://noob4cast.com/",
