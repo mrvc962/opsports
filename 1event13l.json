@@ -27,6 +27,20 @@
          "cookie":"",
          "useragent":"Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
          "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"MI vs PBKS (320p HINDI)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/5118/1195118-h-d9e13dec82ba",
+         "type":"hls",
+         "liveUrl":"http://live12p.akt.hotstar-cdn.net/hls/live/2003704/ipl2022/hin/1540014185/15mindvrm01a0d5b449e4b44383b7c17b1b395e1f0813april2022/master_3.m3u8",
+         "referer":"https://www.hotstar.com/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "license":""
       }
    ]
 }
