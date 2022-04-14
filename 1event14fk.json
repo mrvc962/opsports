@@ -1,0 +1,59 @@
+{
+   "live":[{
+         "id":"0",
+         "category":"live",
+         "title":"RR vs GT (ENGLISH S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6646/1196646-h-ca0d00aecde4",
+         "type":"hls",
+         "liveUrl":"https://g9.fctelerium.com:999/hls/star1in.m3u8?md5=Sq4Ht28pxGl2GPrVoXUqIg&expires=1649951189",
+         "referer": "https://noob4cast.com/",
+         "origin":"https://noob4cast.com",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"RR vs GT (HINDI S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6646/1196646-h-ca0d00aecde4",
+         "type":"hls",
+         "liveUrl":"https://g8.fctelerium.com:999/hls/starhindi.m3u8?md5=cmnOAKrScvPSWNm-dAUheQ&expires=1649951212",
+         "referer": "https://noob4cast.com/",
+         "origin":"https://noob4cast.com",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"RR vs GT (Hindi MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6646/1196646-h-ca0d00aecde4",
+         "type":"hls",
+         "liveUrl":"https://delta4tatasky.akamaized.net/out/i/6527246.mpd",
+         "referer": "",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":"https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&amp;AccountId=tatasky&amp;ContentId=400000020&amp;ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjM5NDE2MTU3IiwiaXNlIjp0cnVlLCJqdGkiOiI0MmNhZjA3ZS0wOGEwLTQzZTQtYmVjYi0yOWNiZjgwMDRlMzYiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjUwMDMyMDM4LCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjQ5OTQ1NjM4LCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwNzEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAxNTYifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA0NzEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA1MDAifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA2NDcifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA3MTEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDA5ODUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEwNTEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDExMjQifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDExMzEifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEyNzQifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEyOTYifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEzMDMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDEzNjgifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE1MTIifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE1NzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE2ODUifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE2OTQifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDE4MTcifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fTW9iaWxlX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImlzcyI6IlRUTiJ9.Re7Md_xxv0eGaaaAQ8MKJZTY53zHayxO-0rftEH9TRY"
+      },
+{
+         "id":"2",
+         "category":"live",
+         "title":"RR vs GT (Hindi MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6646/1196646-h-ca0d00aecde4",
+         "type":"hls",
+         "liveUrl":"https://videodelivery.net/e5d96008cc407647d74a9f72c3c56a6c/manifest/video.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"hdntl=exp=1649944613~acl=*ipl2022*~id=0b6101ad1927b38e6256a8d9a6871275~data=ip%3dFu4PnyEX5bZXY2hcHdlPYhXLINbZeCc8jKBI3KyY8tpif0tvcwmMHHJ-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=991edf23ca1f02fdecda01f75096d5604e780b02a48fa796dc8ae3f8568c5fef",
+         "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "license":""
+      }
+   ]
+  }
