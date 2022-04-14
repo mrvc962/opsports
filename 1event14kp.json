@@ -35,10 +35,11 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/6646/1196646-h-ca0d00aecde4",
          "type":"hls",
-         "liveUrl":"http://tailor-cw.akt.hotstar-cdn.net/hls-0-ipl2022/1540014188/hindi/h264/320x180-d542/180400/child.m3u8?playback_proto=http&playback_host=live12p.akt.hotstar-cdn.net&playback_path=L2hscy9saXZlLzIwMDM3MDQvaXBsMjAyMi9oaW4vMTU0MDAxNDE4OC8xNW1pbmR2cm0wMWYzMTI4NjIyNTMxYjQwYTQ5NGQ5NzIyOGI5N2I1MDFkMTRhcHJpbDIwMjIvbWFzdGVyXzEubTN1OA==&si_match_id=705407",
+         "liveurl":"http://live13p.akt.hotstar-cdn.net/hls/live/2003886/ipl2022/tam/1540014188/15mindvrm01f3128622531b40a494d97228b97b501d14april2022/master_2.m3u8",
          "referer":"https://www.hotstar.com/",
          "origin":"",
-         "cookie":"hdntl=exp=1649944613~acl=*ipl2022*~id=0b6101ad1927b38e6256a8d9a6871275~data=ip%3dFu4PnyEX5bZXY2hcHdlPYhXLINbZeCc8jKBI3KyY8tpif0tvcwmMHHJ-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=991edf23ca1f02fdecda01f75096d5604e780b02a48fa796dc8ae3f8568c5fef         "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "cookie":"hdntl=exp=1649944613~acl=*ipl2022*~id=0b6101ad1927b38e6256a8d9a6871275~data=ip%3dFu4PnyEX5bZXY2hcHdlPYhXLINbZeCc8jKBI3KyY8tpif0tvcwmMHHJ-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=991edf23ca1f02fdecda01f75096d5604e780b02a48fa796dc8ae3f8568c5fef",
+         "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
          "license":""
       }
    ]
