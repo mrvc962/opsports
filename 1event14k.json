@@ -28,7 +28,7 @@
          "useragent":"Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.101 Mobile Safari/537.36",
          "license":""
       },
-{
+      {
          "id":"2",
          "category":"live",
          "title":"MI vs PBKS (MQ HINDI)",
@@ -40,7 +40,7 @@
          "origin":"",
          "cookie":"hdntl=exp=1649942696~acl=*ipl2022*~id=3ea10cc18277748f0b576ceae2ae4bc0~data=ip%3d7j5GZ4XTkSMaYJ3NMZ8QAq-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=89d58ff6707b19f30048fce927a128c534adac13e786b2a3a9e6d24874d724f6",
          "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
-         "license":"",
+         "license":""
       }
    ]
 }
