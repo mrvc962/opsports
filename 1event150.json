@@ -83,6 +83,19 @@
          "cookie":"hdntl=exp=1650030289~acl=*ipl2022*~id=2d1b5e0d7976958423d56ba6612e1184~data=ip%3d18lhRxGdeFIzxx3VPxLQCYNh3vDrsMyY3VamEzScFzioznUjNnww4kL-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=954759fd1fc6944981983bafffd4793a924d256453a071c92226811af7707593",
          "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
          "license":""
+      },{
+         "id":"2",
+         "category":"live",
+         "title":"SRH vs KKR (Tamil 720p)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/8021/1198021-h-7821511a953d",
+         "type":"hls",
+         "liveUrl":"http://live13p.akt.hotstar-cdn.net/hls/live/2003886/ipl2022/tam/1540014191/15mindvrm01969cdc17e0ab4ae98c39d290fac149db15april2022/master_6.m3u8",
+         "referer": "https://www.hotstar.com/",
+         "origin":"",
+         "cookie":"hdntl=exp=1650030289~acl=*ipl2022*~id=2d1b5e0d7976958423d56ba6612e1184~data=ip%3d18lhRxGdeFIzxx3VPxLQCYNh3vDrsMyY3VamEzScFzioznUjNnww4kL-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=954759fd1fc6944981983bafffd4793a924d256453a071c92226811af7707593",
+         "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "license":""
       },
       {
          "id":"2",
