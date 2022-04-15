@@ -1,0 +1,46 @@
+{
+   "live":[{
+         "id":"0",
+         "category":"live",
+         "title":"SRH vs KKR (ENGLISH S1)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/8021/1198021-h-7821511a953d",
+         "type":"hls",
+         "liveUrl":"https://g8.fctelerium.com:999/hls/star1in.m3u8?md5=fYgGTJPdTZl4QLYPjExVZQ&expires=1650039014",
+         "referer": "https://noob4cast.com/",
+         "origin":"https://noob4cast.com",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+      {
+         "id":"1",
+         "category":"live",
+         "title":"SRH vs KKR (HINDI S2)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/8021/1198021-h-7821511a953d",
+         "type":"hls",
+         "liveUrl":"https://g9.fctelerium.com:999/hls/starhindi.m3u8?md5=NsTXygrOTxx4gCg0KJzvew&expires=1650039050",
+         "referer": "https://noob4cast.com/",
+         "origin":"https://noob4cast.com",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },
+
+{
+         "id":"2",
+         "category":"live",
+         "title":"SRH vs KKR (MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/8021/1198021-h-7821511a953d",
+         "type":"hls",
+         "liveUrl":"https://videodelivery.net/6d513f82a0ff5a8dfc989d75835e68a9/manifest/video.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"hdntl=exp=1650032738~acl=*ipl2022*~id=5e7fa57817ab63e6f000a4f467e9bb2e~data=ip%3d18lhRxGdeFIzxx3VPxLQCYNh3vDrsMyY3VamEzScFzioznUjNnww4kL-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=05282eb9cc6be9c7c1a418568e933be87039674a3e497ca1f77db049f5b39f55",
+         "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
+         "license":""
+      }
+   ]
+  }
