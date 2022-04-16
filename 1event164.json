@@ -20,9 +20,9 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9812/1199812-h-b9baaebcc079",
          "type":"hls",
-         "liveUrl":"https://g9.fctelerium.com:999/hls/starhindi.m3u8?md5=AICbhBDUAX5s3uKcxkFW4w&expires=1650117686",
-         "referer": "https://noob4cast.com/",
-         "origin":"https://noob4cast.com",
+         "liveUrl":"http://31.172.87.34:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_dxPYoJ1KjtIgacQFVE0U9Q==,1641804427.7609871579",
+         "referer": "",
+         "origin":"",
          "cookie":"",
          "useragent":"",
          "license":""
