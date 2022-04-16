@@ -2,11 +2,11 @@
    "live":[{
          "id":"0",
          "category":"live",
-         "title":"RCB vs DC (ENGLISH S1)",
+         "title":"Coming Soon",
          "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9832/1199832-h-a95f28453518",
+         "image":"https://im1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9832/1199832-h-a95f28453518",
          "type":"hls",
-         "liveUrl":"https://g9.fctelerium.com:999/hls/star1in.m3u8?md5=hsmHXRILfIPb4QkNDGiW3Q&expires=1650136998",
+         "liveUrl":"https://coolsale.in/wp-content/uploads/2021/07/Streaming-Start-Soon.mp4",
          "referer": "https://noob4cast.com/",
          "origin":"https://noob4cast.com",
          "cookie":"",
@@ -16,30 +16,15 @@
       {
          "id":"1",
          "category":"live",
-         "title":"RCB vs DC (HINDI S2)",
+         "title":"Coming Soon",
          "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9832/1199832-h-a95f28453518",
+         "image":"https://im1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9832/1199832-h-a95f28453518",
          "type":"hls",
-         "liveUrl":"https://g8.fctelerium.com:999/hls/starhindi.m3u8?md5=iwlt7zt1Ebd_k3TMM-6_aw&expires=1650137029",
+         "liveUrl":"https://coolsale.in/wp-content/uploads/2021/07/Streaming-Start-Soon.mp4",
          "referer": "https://noob4cast.com/",
          "origin":"https://noob4cast.com",
          "cookie":"",
          "useragent":"",
-         "license":""
-      },
-
-{
-         "id":"2",
-         "category":"live",
-         "title":"RCB vs DC (240p)",
-         "description":"Star Sports 1",
-         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9832/1199832-h-a95f28453518",
-         "type":"hls",
-         "liveUrl":"http://live12p.akt.hotstar-cdn.net/hls/live/2003704/ipl2022/hin/1540014197/15mindvrm02ed07dbc489234a20831b9234a65de50b16april2022/master_3.m3u8",
-         "referer": "https://www.hotstar.com/",
-         "origin":"",
-         "cookie":"hdntl=exp=1650122992~acl=*ipl2022*~id=d66d6bc13697cf0c86e7c12616810f20~data=ip%3dAPLYzQjltIROXTCwI6YgMUKLD4E7tDIJlYj99blI0mUxRxdu3i1nuHT-userid%3dQ1jsqvUPB4uBLONHaK9tBfx8OhaszhzRLjiwTOsOLW0t-did%3dg1UQr7tGHpsOmbDH48CgjZ7JNsUgnKbAQ6SUfa2HDvspxYAvYKSrFSG-cc%3din-~hmac=4e67b4d568943799d660e4300fd3e477c8e4ef88970a0b027e13caf50111a702",
-         "useragent":"Hotstar;in.startv.hotstar.dplus/12.3.3.1126 (Android/11)-M",
          "license":""
       }
    ]
