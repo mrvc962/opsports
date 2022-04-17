@@ -33,7 +33,7 @@
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/771/1200771-h-0e4d8dd8b1a8",
          "type":"hls",
-         "liveUrl":"https://g8.fctelerium.com:888/hls/star1in.m3u8?md5=NJsldJwwqwl5y_wVbR4IcQ&expires=1650218040",
+         "liveUrl":"https://g8.fctelerium.com:999/hls/star1in.m3u8?md5=NJsldJwwqwl5y_wVbR4IcQ&expires=1650218040",
          "referer": "https://noob4cast.com/",
          "origin":"https://noob4cast.com",
          "cookie":"",
