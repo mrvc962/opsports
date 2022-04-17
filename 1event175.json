@@ -12,6 +12,19 @@
          "cookie":"",
          "useragent":"",
          "license":""
+      },{
+         "id":"0",
+         "category":"live",
+         "title":"CSK vs GT Hindi S2",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/771/1200771-h-0e4d8dd8b1a8",
+         "type":"hls",
+         "liveUrl":"https://tv.mynrwsf.xyz/ipllive2/.m3u8",
+         "referer": "https://ipldekh.site/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
       },
       {
          "id":"1",
