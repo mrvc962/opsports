@@ -2,7 +2,7 @@
    "live":[{
          "id":"0",
          "category":"live",
-         "title":"Coming Soon",
+         "title":"SRH vs PBKS Hindi",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/768/1200768-h-708896b7974b",
          "type":"hls",
@@ -16,7 +16,7 @@
       {
          "id":"1",
          "category":"live",
-         "title":"Coming Soon",
+         "title":"SRH vs PBKS English",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/768/1200768-h-708896b7974b",
          "type":"hls",
