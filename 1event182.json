@@ -2,6 +2,19 @@
    "live":[{
          "id":"0",
          "category":"live",
+         "title":"RR vs KKR Hindi MQ",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1172/1201172-h-51316b15c9f4",
+         "type":"hls",
+         "liveUrl":"https://videodelivery.net/22c0b3e0126f55644857f5eca0b82b05/manifest/video.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"0",
+         "category":"live",
          "title":"RR vs KKR Hindi",
          "description":"Star Sports 1",
          "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/1172/1201172-h-51316b15c9f4",
