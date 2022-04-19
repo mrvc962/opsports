@@ -1,0 +1,43 @@
+{
+   "live":[{
+         "id":"0",
+         "category":"live",
+         "title":"LSG vs RCB Hindi MQ",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2132/1202132-h-d57a04f84e48",
+         "type":"hls",
+         "liveUrl":"https://g9.fctelerium.com:999/hls/starhindi.m3u8?md5=_i4OwldVp3IljJQBmojYlQ&expires=1650382879",
+         "referer": "",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"0",
+         "category":"live",
+         "title":"LSG vs RCB English",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2132/1202132-h-d57a04f84e48",
+         "type":"hls",
+         "liveUrl":"https://g9.fctelerium.com:999/hls/star1in.m3u8?md5=fzYi6jO6jVQs2aIq2bWKoA&expires=1650382880",
+         "referer": "https://noob4cast.com/",
+         "origin":"https://noob4cast.com",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      },{
+         "id":"0",
+         "category":"live",
+         "title":"LSG vs RCB Hindi S2",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2132/1202132-h-d57a04f84e48",
+         "type":"hls",
+         "liveUrl":"https://tv.mynrwsf.xyz/ipllive2/.m3u8",
+         "referer": "https://ipldekh.site/",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
+      }
+   ]
+  }
