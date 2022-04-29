@@ -6,11 +6,11 @@
          "description":"Star",
          "image":"",
          "type":"ads",
-         "liveUrl":"https://t.me/+awsm9VDEycFhOGZh",
-         "referer": "https://noob4cast.com/",
-         "origin":"https://noob4cast.com",
-         "cookie":"",
-         "useragent":"",
+         "liveUrl":"http://raax.xyz/dorach.m3u8?ch=starhindi",
+         "referer": "https://noob4cast.com",
+         "origin":"",
+         "cookie":"Dora TV",
+         "useragent":"Dora TV",
          "license":""
       },{
          "id":"0",
@@ -19,11 +19,11 @@
          "description":"Star Sports 1",
          "image":"",
          "type":"ads",
-         "liveUrl":"https://t.me/+awsm9VDEycFhOGZh",
-         "referer": "https://noob4cast.com/",
-         "origin":"https://noob4cast.com",
-         "cookie":"",
-         "useragent":"",
+         "liveUrl":"https://raax.xyz/dorach.m3u8?ch=star1in",
+         "referer": "https://noob4cast.com",
+         "origin":"",
+         "cookie":"Dora TV",
+         "useragent":"Dora TV",
          "license":""
       }
    ]
