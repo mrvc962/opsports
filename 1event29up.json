@@ -6,7 +6,7 @@
          "description":"Star",
          "image":"",
          "type":"hls",
-         "liveUrl":"http://raax.xyz/dorach.m3u8?ch=starhindi",
+         "liveUrl":"https://raax.xyz/dorach.m3u8?ch=starhindi",
          "referer": "https://noob4cast.com",
          "origin":"",
          "cookie":"Dora TV",
