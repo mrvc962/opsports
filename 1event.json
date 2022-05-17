@@ -6,11 +6,11 @@
          "description":"Star",
          "image":"",
          "type":"hls",
-         "liveUrl":"https://s4.cdn786.xyz:998/hls/starhindi.m3u8?md5=G-FZVpuQ_j5bHp_DPLlO9A&expires=1652720570",
+         "liveUrl":"https://s7.vikistream.com:999/hls/starhindi.m3u8?md5=Psc3HxokCfU932Cmt5VAEQ&expires=1652815513",
          "referer": "https://noob4cast.com/",
          "origin":"https://noob4cast.com",
-         "cookie":"Dora TV",
-         "useragent":"Dora TV",
+         "cookie":"",
+         "useragent":"",
          "license":""
       },{
          "id":"0",
