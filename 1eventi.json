@@ -19,9 +19,9 @@
          "description":"Star Sports 1",
          "image":"",
          "type":"hls",
-         "liveUrl":"https://s6.vikistream.com:999/hls/star1in.m3u8?md5=wpfMsdLifvEbMGpPez_Kcw&expires=1653508038",
-         "referer": "https://noob4cast.com/",
-         "origin":"https://noob4cast.com",
+         "liveUrl":"https://s1.123zcast.me:8025/hd/hls/IXdRVVkgGM3lnwgW_LD3Pg/1653664499/star1in.m3u8",
+         "referer": "https://123zcast.me/",
+         "origin":"https://123zcast.me",
          "cookie":"Dora TV",
          "useragent":"Dora TV",
          "license":""
