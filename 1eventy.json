@@ -25,6 +25,19 @@
          "cookie":"Dora TV",
          "useragent":"Dora TV",
          "license":""
+      },{
+         "id":"0",
+         "category":"live",
+         "title":"GT vs RR (Final MQ)",
+         "description":"Star Sports 1",
+         "image":"https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/9463/1259463-h-e67a42260359",
+         "type":"hls",
+         "liveUrl":"https://videodelivery.net/6d513f82a0ff5a8dfc989d75835e68a9/manifest/video.m3u8",
+         "referer": "",
+         "origin":"",
+         "cookie":"Dora TV",
+         "useragent":"Dora TV",
+         "license":""
       }
    ]
   }
