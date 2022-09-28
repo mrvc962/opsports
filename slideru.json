@@ -13,6 +13,20 @@
          "cookie":"",
          "useragent":"",
          "license":""
+      },
+{
+         "id":"0",
+         "category":"live",
+         "title":"JOIN OUR TELEGRAM",
+         "description":"JOIN OUR TELEGRAM",
+         "image":"https://voonze.com/wp-content/uploads/2021/01/1608803047_409_Telegram-logo.jpg",
+         "type":"ads",
+         "liveUrl":"web",
+         "referer":"",
+         "origin":"",
+         "cookie":"",
+         "useragent":"",
+         "license":""
       }
      ]
 }
